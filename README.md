@@ -1,6 +1,6 @@
 # Cognizant Digital Nurture 5.0 — Java FSE
 
-Hey! This is my hands-on exercise repository for the 
+This is my hands-on exercise repository for the 
 Cognizant Deep Skilling Program (Java Full Stack track).
 I will keep updating this week by week as I complete each exercise.
 
@@ -14,19 +14,35 @@ I will keep updating this week by week as I complete each exercise.
 ### Week 1
 
 #### Design Patterns
-- Singleton Pattern — making sure only one object is created
-- Factory Method Pattern — creating objects without specifying exact class
+- Exercise 1: Singleton Pattern — only one object created throughout the app
+- Exercise 2: Factory Method Pattern — objects created without specifying exact class
 
 #### Data Structures & Algorithms
-- Ecommerce Search — used linear and binary search to find products
-- Financial Forecasting — used recursion to predict future investment value
+- Exercise 2: Ecommerce Search — used linear and binary search to find products
+- Exercise 7: Financial Forecasting — used recursion to predict future investment value
 
 #### PL/SQL
-- Control Structures — used IF ELSE and FOR loop in Oracle database
-- Stored Procedures — created reusable procedures in Oracle database
+- Exercise 1: Control Structures — used IF ELSE and FOR loop in Oracle database
+- Exercise 3: Stored Procedures — created reusable procedures in Oracle database
+
+#### JUnit Testing
+- Exercise 1: Setting Up JUnit — configured JUnit with BeforeEach and AfterEach
+- Exercise 3: Assertions — tested values using assertEquals, assertTrue and assertNotNull
+- Exercise 4: AAA Pattern — used Arrange Act Assert pattern for writing clean tests
+
+#### Mockito
+- Exercise 1: Mocking and Stubbing — created fake objects for testing
+- Exercise 2: Verifying Interactions — verified how many times methods were called
+
+#### SLF4J Logging
+- Exercise 1: Logging — used INFO, WARN and ERROR log levels in the application
 
 ## Tools I am using
 - Java 21
 - VS Code
 - Oracle LiveSQL
+- Spring Boot
+- JUnit 5
+- Mockito
+- SLF4J
 - Git and GitHub
