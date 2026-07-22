@@ -70,6 +70,15 @@ I will keep updating this week by week as I complete each exercise.
 #### JWT
 - Create authentication service that returns JWT - created an authentication API that returns a JWT token
 
+### Week 4
+
+#### React (HOL 1 to 5)
+- HOL 1: First React App - created a React application using create-react-app and displayed a welcome message
+- HOL 2: Student Management Portal - created multiple React components for Home About and Contact pages
+- HOL 3: Score Calculator - created a functional component to calculate and display student average scores
+- HOL 4: Blog App - implemented React lifecycle methods using componentDidMount to fetch and display blog posts from an API
+- HOL 5: Cohort Dashboard - styled React components using CSS Modules and inline styles to display cohort details
+
 ## Tools I am using
 - Java 21
 - VS Code
@@ -77,4 +86,6 @@ I will keep updating this week by week as I complete each exercise.
 - Spring Core
 - Spring Boot
 - Oracle LiveSQL
+- React
+- Node.js
 - Git and GitHub
